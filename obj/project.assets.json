@@ -11093,19 +11093,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Edgar Martinez\\.nuget\\packages\\": {}
+    "C:\\Users\\MartinEu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edgar Martinez\\source\\repos\\Inventory\\Inventory\\Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\MartinEu\\Documents\\Inventory\\Inventory.csproj",
       "projectName": "Inventory",
-      "projectPath": "C:\\Users\\Edgar Martinez\\source\\repos\\Inventory\\Inventory\\Inventory.csproj",
-      "packagesPath": "C:\\Users\\Edgar Martinez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edgar Martinez\\source\\repos\\Inventory\\Inventory\\obj\\",
+      "projectPath": "C:\\Users\\MartinEu\\Documents\\Inventory\\Inventory.csproj",
+      "packagesPath": "C:\\Users\\MartinEu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MartinEu\\Documents\\Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Edgar Martinez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MartinEu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11173,7 +11173,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
